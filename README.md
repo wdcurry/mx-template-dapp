@@ -7,6 +7,10 @@ See [Dapp template](https://template-dapp.multiversx.com/) for live demo.
 
 **Forked by drew curry, starting sep-cv04 (2024) to offer an upgraded UI experience.**
 
+Current (sep15-cv04) view:
+
+![Current update:]([URL_to_image](https://media.xfabric.com/wdcVersion-mvxDappTemplate_1726439665.png))
+
 ## Requirements
 
 - Node.js version 16.20.0+
