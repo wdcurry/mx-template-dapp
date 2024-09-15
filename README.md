@@ -9,7 +9,7 @@ See [Dapp template](https://template-dapp.multiversx.com/) for live demo.
 
 Current (sep15-cv04) view:
 
-![Current update:]([URL_to_image](https://media.xfabric.com/wdcVersion-mvxDappTemplate_1726439665.png))
+![Current update:](https://media.xfabric.com/wdcVersion-mvxDappTemplate_1726439665.png)
 
 ## Requirements
 
