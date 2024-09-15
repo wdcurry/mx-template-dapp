@@ -5,6 +5,8 @@ It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/pack
 
 See [Dapp template](https://template-dapp.multiversx.com/) for live demo.
 
+**Forked by drew curry, starting sep-cv04 (2024) to offer an upgraded UI experience.**
+
 ## Requirements
 
 - Node.js version 16.20.0+
