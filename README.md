@@ -11,6 +11,10 @@ Current (sep15-cv04) view:
 
 ![Current update:](https://media.xfabric.com/wdcVersion-mvxDappTemplate_1726439665.png)
 
+Versus the original view:
+
+![Current update:](https://media.xfabric.com/origVersion-mvxDappTemplate_1726439674.png)
+
 ## Requirements
 
 - Node.js version 16.20.0+
