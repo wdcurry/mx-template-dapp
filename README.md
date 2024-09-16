@@ -5,7 +5,8 @@ It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/pack
 
 See [Dapp template](https://template-dapp.multiversx.com/) for live demo.
 
-**Forked by drew curry, starting sep-cv04 (2024) to offer an upgraded UI experience.**
+**Forked by drew curry, starting sep-cv04 (2024) to offer an upgraded UI experience.
+This is a WIP (work-in-progress) and not yet ready for use**
 
 Current (sep15-cv04) view:
 
